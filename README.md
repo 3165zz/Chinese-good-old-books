@@ -14,8 +14,3 @@ I noticed that Markdown versions of *The Thirty-Six Stratagems* are rarely found
 
 I compiled this from a .txt file saved on my computer; please exercise your own judgment regarding its authenticity.
 
----
-
-3165
-
-2026/09/15
