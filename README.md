@@ -1,7 +1,7 @@
-# 36-Stratagems
+# Chinese-good-old-books
 
-Markdown格式的《三十六计》。
+本人整理的一些Markdown版本的中国古文。
 
 ## 免责声明
 
-使用者后果自负。
+内容仅供学习与交流使用。
